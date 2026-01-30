@@ -3,22 +3,21 @@
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
-
+int main(){
     int n;
     scanf("%d", &n);
-    
-    int a[n];
-    for (int i=0;i<n;++i){
-        scanf("%d", &a[i]);
-        
+    int arr[n];
+    for(int i=0;i<n;i++){
+        scanf("%d", &arr[i]);
+
     }
-    int min=a[0];
-    for (int i=0;i<n;++i){
-        if(a[i]<min){
-            min=a[i];
+    int max=arr[0];
+    for (int i=1;i<n;i++){
+        if(arr[i]>max){
+            max=arr[i];
+            
         }
-    }
-    printf("%d", min);
+       
+    } printf("%d", max);
     return 0;
 }
