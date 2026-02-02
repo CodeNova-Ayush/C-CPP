@@ -15,7 +15,7 @@ int n;
     int k;
     scanf("%d", &k);
     int count =0;
-    for (int i=0;i<n;++i){
+    for (int i=1;i<n;++i){
         if(arr[i]>k){
             count++;
         }
