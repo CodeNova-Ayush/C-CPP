@@ -27,10 +27,10 @@ int main(){
     }
 
     if(ascending == 1){
-        printf("Ascending");
+        printf("Ascending order");
     }
     else if(descending == 1){
-        printf("Descending");
+        printf("Descending order");
     }
     else{
         printf("Not Sorted");
