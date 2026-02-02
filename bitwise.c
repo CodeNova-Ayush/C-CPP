@@ -6,7 +6,7 @@ int main(){
 
     int result = n & (n - 1);
 
-    printf("%d", result);
+    printf("%d", result );
 
     return 0;
 }
