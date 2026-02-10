@@ -23,9 +23,9 @@ int main() {
     }
 
     if(isIdentity)
-        printf("Matrix is Identity Matrix\n");
+        printf(" Identity Matrix\n");
     else
-        printf("Matrix is NOT Identity Matrix\n");
+        printf(" NOT Identity Matrix\n");
 
     return 0;
 }
