@@ -19,4 +19,5 @@ int main() {
 
     if(sum==n) cout<<"Yes";
     else cout<<"No";
+    printf("program executed   ")
 }
