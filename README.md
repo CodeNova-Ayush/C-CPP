@@ -78,11 +78,13 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0101-symmetric-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0101-symmetric-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -93,5 +95,10 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0101-symmetric-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
