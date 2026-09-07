@@ -8,7 +8,7 @@ public:
         if(root->val <=low || root->val >=high){
             return false;
         }
-        return check (root->left,low,root->val) && 
+        return check(root->left,low,root->val) &&
                check(root->right,root->val,high);
     }
     bool isValidBST(TreeNode* root) {
