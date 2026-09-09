@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 ## Tree
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 <!---LeetCode Topics End-->
