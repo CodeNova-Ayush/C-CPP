@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
