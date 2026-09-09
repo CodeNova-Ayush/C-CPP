@@ -16,7 +16,7 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         int ans = root->val;
-
+        
         while(!q.empty()) {
             int n = q.size();
             for(int i = 0; i < n; i++) {
