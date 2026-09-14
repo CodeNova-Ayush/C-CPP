@@ -75,6 +75,7 @@
 | [0844-backspace-string-compare](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
@@ -124,6 +125,7 @@
 | [0844-backspace-string-compare](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
