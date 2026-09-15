@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
+| [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 ## String
 |  |
@@ -76,6 +77,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
@@ -126,6 +128,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
