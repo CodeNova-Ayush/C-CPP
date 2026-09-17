@@ -12,41 +12,59 @@ class Node {
 class myQueue {
 
   public:
-   queue<int>q;
+        Node* rear ;
+        Node* front;
+        int count ;
     myQueue() {
         // Initialize your data members
+        front = nullptr;
+        rear = nullptr;
+        count = 0;
+        
     }
 
     bool isEmpty() {
+        return front == nullptr;
         // check if the queue is empty
-        return q.empty();
     }
 
     void enqueue(int x) {
         // Adds an element x at the rear of the queue
-        q.push(x);
+        Node* temp = new Node(x);
+        if(front == nullptr){
+            front = temp;
+            rear = temp;
+        }else{
+            rear->next = temp;
+            rear = temp ;
+        }count++;
     }
 
     void dequeue() {
         // Removes the front element of the queue
-        if(!q.empty()){
-            q.pop();
+        if(front == nullptr){
+            return;
+        }
+        Node * temp = front;
+        front = front->next;
+        delete temp;
+        count --;
+        if(front == nullptr){
+            rear = nullptr;
         }
     }
-    
 
     int getFront() {
         // Returns the front element of the queue
         // If queue is empty, return -1
-        if(q.empty()){
+        if(front == nullptr){
             return -1;
-            
         }
-        return q.front();
+        return front->data;
     }
 
     int size() {
         // Returns the current size of the queue.
-        return q.size();
+        return count;
     }
 };
