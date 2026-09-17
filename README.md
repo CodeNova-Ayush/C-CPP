@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,4 +153,12 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2390-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
