@@ -90,6 +90,7 @@
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
@@ -98,6 +99,7 @@
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
@@ -111,6 +113,7 @@
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1021-remove-outermost-parentheses) |
