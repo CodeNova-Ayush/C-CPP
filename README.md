@@ -96,6 +96,7 @@
 | [0404-sum-of-left-leaves](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0404-sum-of-left-leaves](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
