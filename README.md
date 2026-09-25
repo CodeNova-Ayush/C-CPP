@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
+| [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 ## String
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -178,4 +180,16 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0933-number-of-recent-calls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
