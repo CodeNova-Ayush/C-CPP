@@ -68,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 ## String
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 ## Tree
 |  |
@@ -157,6 +159,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 ## Bracket Sequences
 |  |
