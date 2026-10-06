@@ -71,6 +71,7 @@
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -82,12 +83,14 @@
 | [1544-make-the-string-great](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2390-removing-stars-from-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
