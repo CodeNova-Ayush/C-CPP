@@ -205,4 +205,8 @@
 |  |
 | ------- |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
