@@ -70,6 +70,7 @@
 | [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
