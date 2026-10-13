@@ -70,6 +70,7 @@
 | [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -124,6 +125,7 @@
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0844-backspace-string-compare) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Simulation
