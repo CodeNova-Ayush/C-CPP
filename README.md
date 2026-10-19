@@ -69,6 +69,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1046-last-stone-weight) |
 | [1598-crawler-log-folder](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1598-crawler-log-folder) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -201,11 +202,13 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Prefix Sum
@@ -236,6 +239,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
