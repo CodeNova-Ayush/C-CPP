@@ -110,6 +110,7 @@
 | [0404-sum-of-left-leaves](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -129,6 +130,7 @@
 | [0098-validate-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0700-search-in-a-binary-search-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Tree
 |  |
@@ -142,6 +144,7 @@
 | [0404-sum-of-left-leaves](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
