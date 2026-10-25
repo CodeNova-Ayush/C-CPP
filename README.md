@@ -109,6 +109,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
@@ -124,6 +125,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
@@ -147,6 +149,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
@@ -256,4 +259,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
