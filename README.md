@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
@@ -214,11 +215,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
