@@ -116,6 +116,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -139,6 +140,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Tree
 |  |
@@ -156,6 +158,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0669-trim-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
