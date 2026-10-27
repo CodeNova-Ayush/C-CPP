@@ -192,6 +192,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0355-design-twitter) |
 | [0933-number-of-recent-calls](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
@@ -245,6 +246,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0355-design-twitter) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/CodeNova-Ayush/C-CPP/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CodeNova-Ayush/C-CPP/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0355-design-twitter) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/CodeNova-Ayush/C-CPP/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -283,4 +286,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/CodeNova-Ayush/C-CPP/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
